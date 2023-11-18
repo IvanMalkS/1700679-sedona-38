@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Малков](https://up.htmlacademy.ru/htmlcss/38/user/1700679).
-* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
+* Наставник: [Александр Зиновьев](https://htmlacademy.ru/profile/id198751).
 
 ---
 
